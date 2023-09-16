@@ -1,0 +1,4 @@
+Assignment Part-1
+Q1. Why do we call Python as a general purpose and high-level programming language?
+Answer: A general-purpose programming language is one that is usable (not just theoretically, but practically) for solving a very wide range of different kinds of problems. 
+In Python, you can write detailed numerical simulations, web microservices, file format parsers, and so on. So, Python is a general-purpose programming language. You would not want to use it to write a kernel extension, but general-purpose doesn’t mean all possible purposes, just a wide variety of them.
